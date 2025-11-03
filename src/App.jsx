@@ -312,6 +312,10 @@ export default function App() {
             </li>
           </ul>
         </motion.section>
+
+        <footer className="text-center text-sm opacity-70 py-6">
+          Made with ❤️ and AI — Pooja Kailash Pansare
+        </footer>
       </div>
     </div>
   );
